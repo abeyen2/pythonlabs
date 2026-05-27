@@ -1,7 +1,9 @@
-add = 189 + 654
-div = 175/5
-mult = 2**7
+x = 189 + 654
+y = 175/5
+z = 2**7
 
-print(add)
-print(div)
-print(mult)
+print(x)
+print(y)
+print(z)
+print(x + y)
+print(x - z)
